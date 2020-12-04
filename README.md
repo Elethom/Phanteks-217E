@@ -17,3 +17,14 @@ GPU side panel for better cooling. It contains two layers of laser cut acrylic, 
 ![Side Panel Base](/gpu-panel-base.PNG)
 
 ![Side Panel Top](/gpu-panel-top.PNG)
+
+## License
+
+This project is released under the terms and conditions of the [GPL license](https://www.gnu.org/licenses/#GPL). See [LICENSE](/LICENSE) for details.
+
+## Contact
+
+This project is designed and developed by [Elethom Hunter](http://github.com/Elethom). You can reach me via:
+
+* Email: elethomhunter@gmail.com
+* Telegram: [@elethom](http://telegram.me/elethom)
